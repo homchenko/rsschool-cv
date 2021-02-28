@@ -1,5 +1,5 @@
-#Diana Homchenko/
-##E-mail:</b> dianahomchenko@gmail.com/
+#Diana Homchenko /
+##E-mail:</b> dianahomchenko@gmail.com /
 ##About me: I have no experience in this area, but I have a great desire to acquire it./
 ##Skills/
     *html, css/
